@@ -1,0 +1,12 @@
+[BUG]: no found input "THYMLTestSPTF.py"
+
+## Command Line
+/Library/Frameworks/Python.framework/Versions/3.11/bin/pyarmor gen --platform linux.x86_64 THYMLTestSPTF.py
+
+## Environments
+Python 3.11.4
+Pyarmor 9.1.8 (trial), 000000, non-profits
+Platform darwin.aarch64
+Native darwin.arm64
+Home /Users/pseudomonas/.pyarmor
+
